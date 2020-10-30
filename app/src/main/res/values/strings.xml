@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A7S212021PRAC6</string>
+    <string name="TipoCelular">Celular</string>
+    <string name="vHorizontal">Horizontal</string>
+    <string name="vVertical">Vertical</string>
+    <string name="GoWlogo">God of War</string>
+    <string name="LuciernagasLogo">Luciernagas</string>
+    <string name="TipoTablet">Tablet</string>
+</resources>
